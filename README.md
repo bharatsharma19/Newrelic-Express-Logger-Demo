@@ -1,4 +1,3 @@
-
 # Simple Express App with Newrelic and Winston Logging
 
 This is a simple Express application that logs all incoming `GET /` requests using `winston` and reports to New Relic. The app logs request details in different formats and supports both console and file transports.
@@ -118,4 +117,8 @@ Contributions are welcome! To contribute:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or support, please contact [bharat8717sharma@gmail.com](mailto:bharat8717sharma@gmail.com).
