@@ -1,5 +1,5 @@
 
-# Simple Express App with New Relic and Winston Logging
+# Simple Express App with Newrelic and Winston Logging
 
 This is a simple Express application that logs all incoming `GET /` requests using `winston` and reports to New Relic. The app logs request details in different formats and supports both console and file transports.
 
