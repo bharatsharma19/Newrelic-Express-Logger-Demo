@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "NEW_RELIC_APPLICATION_LOGGING_FORWARDING_ENABLED=true NEW_RELIC_APP_NAME=Test NEW_RELIC_LICENSE_KEY=ab0f9d88bbe2a537fae400a738fc2787FFFFNRAL node -r newrelic index.js "
+    "start": "NEW_RELIC_APPLICATION_LOGGING_FORWARDING_ENABLED=true NEW_RELIC_APP_NAME=test NEW_RELIC_LICENSE_KEY=license_key node -r newrelic index.js"
   },
   "keywords": [],
   "author": "",
